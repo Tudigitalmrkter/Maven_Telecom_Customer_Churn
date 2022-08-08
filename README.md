@@ -22,5 +22,8 @@ Dataset Link: [Telecom Customer Churn]https://www.mavenanalytics.io/data-playgro
 
 ## Screenshot 
 
-![Python EDA Sample] 
-![Telecom Customers Churn]https://github.com/Tudigitalmrkter/Maven_Telecom_Customer_Churn/blob/main/Telecom_Customer_Churn_Report.pdf
+#### EDA Sample in Python
+https://github.com/Tudigitalmrkter/Maven_Telecom_Customer_Churn/blob/main/telecom_python%20screenshot.png
+
+#### Telecom Customers Churn
+https://github.com/Tudigitalmrkter/Maven_Telecom_Customer_Churn/blob/main/Telecom_Customer_Churn_Report.pdf
