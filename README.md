@@ -1,4 +1,4 @@
-# Maven_Telecom_Customer_Churn (Data Viz)
+# Maven Teleco Customer Churn (Data Viz)
 This is the Maven Telecom Customer Churn infographic. 
 
 ## Overall Context
